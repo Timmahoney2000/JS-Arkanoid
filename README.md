@@ -1,5 +1,5 @@
 # JS-Arkanoid
-Working through a Udemy course to build a web based Arkanoid/Breakout game through javascript 6/26/19
+
 
 Code all finished but could stand to be cleaned up a bit(files put in proper folders).
 Otherwise I'm pretty happy with this project as it's my 1st real build through javascript.
